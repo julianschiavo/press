@@ -1,2 +1,2 @@
 # press
-Press resources for my app.
+# https://cardsapp.io/#press
