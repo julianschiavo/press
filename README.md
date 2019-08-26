@@ -1,2 +1,1 @@
-# press
-# https://cardsapp.io/#press
+# [ClusterCards & Press](https://clustercards.app/press)
